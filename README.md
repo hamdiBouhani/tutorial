@@ -23,3 +23,15 @@ In this article, I will walk you through how to implement a micro frontends app 
 Go Vanity URLs is a simple Go server that allows you
 to set custom import paths for your Go packages.
 It also can run on Google App Engine.
+
+
+[ingle-spa.js](https://single-spa.js.org/docs/getting-started-overview/)
+
+> single-spa is a framework that enables you to easily set up a micro front-ends app.
+
+single-spa is a framework for bringing together multiple JavaScript microfrontends in a frontend application. Architecting your frontend using single-spa enables many benefits, such as:
+
+Use multiple frameworks on the same page without page refreshing (React, AngularJS, Angular, Ember, or whatever you're using)
+Deploy your microfrontends independently
+Write code using a new framework, without rewriting your existing app
+Lazy load code for improved initial load time
