@@ -28,6 +28,14 @@ Go Vanity URLs is a simple Go server that allows you
 to set custom import paths for your Go packages.
 It also can run on Google App Engine.
 
+* [LearnConcurrency](https://github.com/golang/go/wiki/LearnConcurrency)
+
+This page links to resources for learning about concurrency in Go. 
+The items are presented in order, from beginner material to advanced topics.
+
+* [The Laws of Reflection](https://go.dev/blog/laws-of-reflection)
+
+Reflection in computing is the ability of a program to examine its own structure, particularly through types; it’s a form of metaprogramming. It’s also a great source of confusion.
 
 
 ## spring java:
