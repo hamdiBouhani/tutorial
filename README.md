@@ -25,7 +25,7 @@ to set custom import paths for your Go packages.
 It also can run on Google App Engine.
 
 
-[ingle-spa.js](https://single-spa.js.org/docs/getting-started-overview/)
+[single-spa.js](https://single-spa.js.org/docs/getting-started-overview/)
 
 > single-spa is a framework that enables you to easily set up a micro front-ends app.
 
