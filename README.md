@@ -1,5 +1,11 @@
 # tutorial
 
+## protocols:
+
+* [Tus](https://tus.io/)
+
+tus is a project aiming to make resumable file uploads easily usable and widely available. The most interesting parts of this project are the protocol specification and the many freely available client and server implementations.
+
 ## shell: 
 
 
