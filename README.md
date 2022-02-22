@@ -45,13 +45,13 @@ Reflection in computing is the ability of a program to examine its own structure
 
 ## Frontends:
 
-[Micro Frontends Using Single-SPA and Module Federation](https://betterprogramming.pub/micro-frontends-using-single-spa-and-module-federation-81ec27d03aee)
+* [Micro Frontends Using Single-SPA and Module Federation](https://betterprogramming.pub/micro-frontends-using-single-spa-and-module-federation-81ec27d03aee)
 
 In this article, I will walk you through how to implement a micro frontends app with single-spa and module federation in Webpack.
 
 
 
-[single-spa.js](https://single-spa.js.org/docs/getting-started-overview/)
+* [single-spa.js](https://single-spa.js.org/docs/getting-started-overview/)
 
 > single-spa is a framework that enables you to easily set up a micro front-ends app.
 
@@ -61,3 +61,8 @@ Use multiple frameworks on the same page without page refreshing (React, Angular
 Deploy your microfrontends independently
 Write code using a new framework, without rewriting your existing app
 Lazy load code for improved initial load time
+
+* [Dependency cruiser](https://www.npmjs.com/package/dependency-cruiser)
+
+Validate and visualise dependencies. With your rules. JavaScript. TypeScript. CoffeeScript. ES6, CommonJS, AMD.
+
