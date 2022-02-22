@@ -66,3 +66,8 @@ Lazy load code for improved initial load time
 
 Validate and visualise dependencies. With your rules. JavaScript. TypeScript. CoffeeScript. ES6, CommonJS, AMD.
 
+
+## Useful talks:
+
+[Building Resilient Frontend Architecture • Monica Lent • GOTO 2019](https://www.youtube.com/watch?v=TqfbAXCCVwE)
+
