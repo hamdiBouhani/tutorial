@@ -11,10 +11,14 @@
 
 [GraphQL Subscriptions With Go](https://betterprogramming.pub/graphql-subscriptions-with-go-6eb25dec5cd1)
 
+In this article, I will walk you through how to implement GraphQL subscriptions with Go.
+
 [Micro Frontends Using Single-SPA and Module Federation](https://betterprogramming.pub/micro-frontends-using-single-spa-and-module-federation-81ec27d03aee)
 
+In this article, I will walk you through how to implement a micro frontends app with single-spa and module federation in Webpack.
 
-# [Go Vanity URLs](https://github.com/GoogleCloudPlatform/govanityurls) 
+
+[Go Vanity URLs](https://github.com/GoogleCloudPlatform/govanityurls) 
 
 Go Vanity URLs is a simple Go server that allows you
 to set custom import paths for your Go packages.
