@@ -66,7 +66,7 @@ Lazy load code for improved initial load time
 
 Validate and visualise dependencies. With your rules. JavaScript. TypeScript. CoffeeScript. ES6, CommonJS, AMD.
 
-##
+## App Monitoring & Performance Tips:
 
 [How to Measure Defect Escape Rate to Keep Bugs Out of Production](https://stackify.com/measure-defect-escape-rate/)
 
