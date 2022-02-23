@@ -73,5 +73,5 @@ Validate and visualise dependencies. With your rules. JavaScript. TypeScript. Co
 
 [What is Apache Kafka®? (A Confluent Lightboard by Tim Berglund) + ksqlDB](https://www.youtube.com/watch?v=06iRM1Ghr1k)
 
-[Lies, Damned Lies, and Metrics • Roy Osherove • GOTO 2019](https://www.youtube.com/watch?v=goihWvyqRow)
+:fire: :fire: :fire:[Lies, Damned Lies, and Metrics • Roy Osherove • GOTO 2019](https://www.youtube.com/watch?v=goihWvyqRow) :fire: :fire::fire:
 
