@@ -71,3 +71,5 @@ Validate and visualise dependencies. With your rules. JavaScript. TypeScript. Co
 
 [Building Resilient Frontend Architecture • Monica Lent • GOTO 2019](https://www.youtube.com/watch?v=TqfbAXCCVwE)
 
+[What is Apache Kafka®? (A Confluent Lightboard by Tim Berglund) + ksqlDB](https://www.youtube.com/watch?v=06iRM1Ghr1k)
+
