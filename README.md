@@ -2,7 +2,7 @@
 
 ## Papers:
 
-[https://en.wikipedia.org/wiki/Log-structured_merge-tree](https://en.wikipedia.org/wiki/Log-structured_merge-tree):
+[Log-structured_merge-tree](https://en.wikipedia.org/wiki/Log-structured_merge-tree):
 
 In computer science, the log-structured merge-tree (also known as LSM tree, or LSMT[1]) is a data structure with performance characteristics that make it attractive for providing indexed access to files with high insert volume, such as transactional log data. LSM trees, like other search trees, maintain key-value pairs. LSM trees maintain data in two or more separate structures, each of which is optimized for its respective underlying storage medium; data is synchronized between the two structures efficiently, in batches.
 
