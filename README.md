@@ -15,6 +15,8 @@ tus is a project aiming to make resumable file uploads easily usable and widely 
 
 ## golang: 
 
+* :fire: :fire: :fire: :fire: [awesome-go](https://github.com/avelino/awesome-go)
+
 * [Gin binding in Go: A tutorial with examples](https://blog.logrocket.com/gin-binding-in-go-a-tutorial-with-examples/#:~:text=What%20is%20Gin%20binding%3F,etc.%20to%20structs%20and%20maps.)
 
 
