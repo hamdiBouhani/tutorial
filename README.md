@@ -94,3 +94,5 @@ Validate and visualise dependencies. With your rules. JavaScript. TypeScript. Co
 
 :fire: :fire: :fire:[Lies, Damned Lies, and Metrics • Roy Osherove • GOTO 2019](https://www.youtube.com/watch?v=goihWvyqRow) :fire: :fire::fire:
 
+:fire: :fire:  [The Ideal Programming Language • Richard Feldman & Erik Doernenburg • GOTO 2021](https://www.youtube.com/watch?v=MPyUvtPFDSg)
+
