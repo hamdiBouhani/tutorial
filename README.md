@@ -96,3 +96,5 @@ Validate and visualise dependencies. With your rules. JavaScript. TypeScript. Co
 
 :fire: :fire:  [The Ideal Programming Language • Richard Feldman & Erik Doernenburg • GOTO 2021](https://www.youtube.com/watch?v=MPyUvtPFDSg)
 
+[Solving Problems the Clojure Way - Rafal Dittwald](https://www.youtube.com/watch?v=vK1DazRK_a0)
+
